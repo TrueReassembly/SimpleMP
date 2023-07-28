@@ -1,0 +1,2 @@
+#The maximum amount of homes a default player can have, note that if the player already has more homes set, The player will be required to delete homes until they are below this threshold
+max-homes: 4
