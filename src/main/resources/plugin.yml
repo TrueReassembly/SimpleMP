@@ -1,0 +1,4 @@
+name: SimpleMP
+version: '${version}'
+main: me.chipdev.simplemp.SimpleMP
+api-version: '1.20'
